@@ -1,3 +1,3 @@
 
 
-[Uploading Ekran Görüntüsü (574).png…]()
+![Screenshot][Uploading Ekran Görüntüsü (574).png…]()
