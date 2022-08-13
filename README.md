@@ -1,5 +1,5 @@
 
-## Homework-1 Compound interest calculation
+## Homework-1 : Compound interest calculation
 ### Screenshot of swagger
 ![Ekran Görüntüsü (574)](https://user-images.githubusercontent.com/63016233/184377864-b1aa875f-a750-40cf-91e0-9685806bfbf4.png)
 ![Ekran Görüntüsü (573)](https://user-images.githubusercontent.com/63016233/184378422-bf9c4074-654b-4d58-8bf5-c0c52376bf9e.png)
